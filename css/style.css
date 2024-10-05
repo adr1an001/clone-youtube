@@ -1,0 +1,21 @@
+body {
+    background-color: #0f0f0f;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.part1 {
+    display: flex;
+}
+
+
+.part1 svg {
+    width: 100px;
+}
+
+.part1 svg.logo {
+    width: 300px;
+}
